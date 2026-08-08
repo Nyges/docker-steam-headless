@@ -11,7 +11,7 @@ Easily deploy a Steam Docker instance in seconds.
 ## Features:
 - Steam Client configured for running on Linux with Proton
 - Moonlight compatible server for easy remote desktop streaming
-- Easy installation of EmeDeck, Heroic and Lutris via Flatpak
+- Easy installation of EmuDeck, Heroic and Lutris via Flatpak
 - Full video/audio noVNC web access to a Xfce4 Desktop
 - NVIDIA, AMD and Intel GPU support
 - Full controller support
